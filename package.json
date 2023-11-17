@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npm i",
+    "build": "nvm install && nvm use && npm i",
     "server": "nodemon index.js"
   },
   "author": "",
